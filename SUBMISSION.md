@@ -301,9 +301,7 @@ Each commit message clearly describes the changes made and follows best practice
 
 ## Repository Link
 
-GitHub Repository: `https://github.com/[your-username]/PES2UG24AM126-pes-vcs`
-
-**Note:** Replace with your actual repository URL after pushing to GitHub.
+GitHub Repository: https://github.com/SunOrangeBurger/PES2UG24AM126-pes-vcs
 
 ---
 
