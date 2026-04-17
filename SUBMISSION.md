@@ -301,7 +301,24 @@ Each commit message clearly describes the changes made and follows best practice
 
 ## Repository Link
 
-GitHub Repository: [Your Repository URL Here]
+GitHub Repository: `https://github.com/[your-username]/PES2UG24AM126-pes-vcs`
+
+**Note:** Replace with your actual repository URL after pushing to GitHub.
+
+---
+
+## Important: Running Commands
+
+All `pes` commands require the `PES_AUTHOR` environment variable to be set. Before running any commands:
+
+```bash
+source .env
+```
+
+Or run commands with the environment variable inline:
+```bash
+export PES_AUTHOR="Arun Hariharan <PES2UG24AM126>" && ./pes [command]
+```
 
 ---
 
