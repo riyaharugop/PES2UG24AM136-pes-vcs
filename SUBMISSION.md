@@ -93,9 +93,13 @@ Implemented commit creation with parent linking and history traversal.
 
 ## Final Integration Test
 
-**Screenshot: Full integration test**
-<!-- Attach: Screenshots/final_integration.png -->
-![Final Integration](Screenshots/final_integration.png)
+**Screenshot: Full integration test (Part 1)**
+<!-- Attach: Screenshots/final_integration_part1.png -->
+![Final Integration Part 1](Screenshots/final_integration_part1.png)
+
+**Screenshot: Full integration test (Part 2)**
+<!-- Attach: Screenshots/final_integration_part2.png -->
+![Final Integration Part 2](Screenshots/final_integration_part2.png)
 
 ---
 
